@@ -5,6 +5,7 @@ These samples serve as the completed source code for
 The `level1-complete` directory should be used as a reference for the
 Level 1 codelab, and as a starting point for the Level 2 codelab. The
 `level2-complete` directory can be used as a reference for the Level 2 codelab.
+Thus,both `level1-complete` and `level2-complete` directories act as a easy sorce paths for assisting newbies in developing some simple Applications in Goggle Assistant. 
 
 ## Setup Instructions
 
